@@ -1,0 +1,11 @@
+{
+  "default": {
+    "project": "builder-nextjs-firebase-hosted",
+    "site": "builder-nextjs-firebase-hosted",
+    "function": {
+      "name": "ssr",
+      "region": "us-central1",
+      "gen": 2
+    }
+  }
+}
