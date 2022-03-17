@@ -2,6 +2,9 @@
   "default": {
     "project": "builder-nextjs-firebase-hosted",
     "site": "builder-nextjs-firebase-hosted",
+    "hosting": {
+      "public": "build"
+    },
     "function": {
       "name": "ssr",
       "region": "us-central1",

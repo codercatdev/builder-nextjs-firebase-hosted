@@ -1,6 +1,5 @@
 import { builder, Builder } from '@builder.io/react'
-import builderConfig from '@config/builder'
-builder.init(builderConfig.apiKey)
+builder.init('c063d74743bf4824aed8edc952a968ab')
 
 export async function resolveBuilderContent(
   modelName: string,
